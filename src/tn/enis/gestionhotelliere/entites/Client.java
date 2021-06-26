@@ -7,6 +7,8 @@ public class Client {
 	private String prenom;
 	private String motPasse;
 
+
+
 	public String getEmail() {
 		return email;
 	}
